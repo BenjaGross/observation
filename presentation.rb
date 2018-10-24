@@ -8,12 +8,13 @@ presentation 'Active Experimentation Vs Passive Observation' do
 
   slide "What is Passive Observation" do
     point "The action of noticing the world around you"
-    point "To see an activity and take not of it"
+    point "To see an activity and take note of it"
+    point "Nothing else"
   end
 
-  slide "Observing" do
-    point "Gather as much information as possible to later correlate cause and effect"
-    point "Refrain from making judgments or coming up with solutionsThese will tint how you view later actions"
+  slide "Observing in Context" do
+    point "Gather as much information as possible for later use"
+    point "Refrain from making judgments or coming up with solutions. These will tint your later observations"
     point "Subject checked twice vs. Subject couldn't rememeber"
   end
 
@@ -22,11 +23,6 @@ presentation 'Active Experimentation Vs Passive Observation' do
     point "This happens on a non quantum scale too, when you observe someone or some process they act differently"
   end
 
-  slide "After Observing" do
-    point "Organize your information"
-    point "Look for trends"
-    point "Beign to look for solutions to problems"
-  end
 
   slide "How to mitigate your presence" do
     list do
@@ -37,6 +33,12 @@ presentation 'Active Experimentation Vs Passive Observation' do
     point "Stay as unobstrusive as posible"
   end
 
+  slide "After Observing" do
+    point "Organize your information"
+    point "Look for trends"
+    point "Come up with some solutions and begin your active experimenting"
+  end
+
   slide "Active Experiment" do
     remote_image "http://artdiscovery.info/wp-content/uploads/2013/07/4-IMG_1902.jpg", as: "maralyn"
     point "Andy Warhol's Marilyn Diptych"
@@ -44,11 +46,12 @@ presentation 'Active Experimentation Vs Passive Observation' do
 
   slide "What is Active Experimenting" do
     point "Exactly what it sounds like"
-    point "Take an active role in actions"
-    point "Takes steps to affect the outcome"
-    point "See how your actions changed things"
+    point "Think of somethign to fix"
+    point "Come up with an idea you think will help the issue"
+    point "Implement your solution"
+    point "See what changed"
+    point "Start over"
   end
-
 
   slide "When do Obvserve vs Experiment" do
     point "Observe"
